@@ -1,0 +1,12 @@
+# Temporal logs
+logs/
+
+# Temporal files
+*.pyc
+__pycache__
+*checkpoint*
+*.swp
+nohup.out
+
+# Keras plot_model output
+model.png
